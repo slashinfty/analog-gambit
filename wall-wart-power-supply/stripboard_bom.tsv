@@ -1,0 +1,9 @@
+Name	Type	Value	Quantity
+R1, R2	Resistor	2.4k	2
+D1, D2, D3, D4, D5, D6	Diode	1N4004	6
+C4, C5, C9, C10	Capacitor: Electrolytic 200 mil	1μF	4
+C1, C2, C3, C6, C7, C8	Capacitor: Electrolytic 400 mil	3300μF	6
+Q1	TO220	LM7812	1
+Q2	TO220	LM7912	1
+SW1	Switch: Single Throw	SPST	1
+
